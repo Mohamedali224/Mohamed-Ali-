@@ -54,5 +54,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedali224&show_icons=true&theme=radium" alt="Mohamed's GitHub Stats" />
 </p>
