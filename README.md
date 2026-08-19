@@ -15,7 +15,7 @@
 - 🌱 **Currently Learning:** Deep Learning, Web Scraping, and Advanced SQL.
 - 💡 **Recently Completed:** Built multiple Machine Learning models and interactive dashboards using Power BI.
 - 👯 **Open to Collaborate on:** Data Science, Machine Learning, and Data Analysis projects.
-- 📫 **How to reach me:** [اضغط هنا وحط لينك لينكد إن بتاعك]
+- 📫 **How to reach me:** <a href="https://www.linkedin.com/in/mohamed-alawady-392690358"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
 
